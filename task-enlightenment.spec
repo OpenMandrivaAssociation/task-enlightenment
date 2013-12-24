@@ -1,7 +1,7 @@
 Summary:	Metapackage for the Enlightenment
 Name:		task-enlightenment
 Version:	0.18
-Release:	1
+Release:	2
 Epoch:		1
 License:	BSD
 Group:		Graphical desktop/Enlightenment
@@ -37,7 +37,7 @@ Requires:	ecore
 Requires:	embryo
 Requires:	edje
 Requires:	efreet
-Requires:	e_dbus
+Requires:	eldbus
 Requires:	eeze
 Requires:	expedite
 Requires:	evas_generic_loaders
