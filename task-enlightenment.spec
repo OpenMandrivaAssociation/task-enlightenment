@@ -45,6 +45,7 @@ Requires:	emotion
 Requires:	ethumb
 Requires:	elementary
 Requires:	e
+Obsoletes:	e_dbus < 1.8.0
 Obsoletes:	editje < 0.9.3-1
 Obsoletes:	edje_viewer < 1.1.0-1
 Obsoletes:	enki < 0.6.0-1
