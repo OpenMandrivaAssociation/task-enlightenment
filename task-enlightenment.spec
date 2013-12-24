@@ -1,7 +1,7 @@
 Summary:	Metapackage for the Enlightenment
 Name:		task-enlightenment
 Version:	0.18
-Release:	2
+Release:	3
 Epoch:		1
 License:	BSD
 Group:		Graphical desktop/Enlightenment
@@ -11,6 +11,7 @@ Requires:	e_modules
 Requires:	emprint
 Requires:	enjoy
 Requires:	ephoto
+Requires:	python-efl
 Requires:	terminology
 # prefered apps
 # Suggests:	lxdm
