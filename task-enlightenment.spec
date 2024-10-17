@@ -5,7 +5,7 @@ Release:	7
 Epoch:		1
 License:	BSD
 Group:		Graphical desktop/Enlightenment
-Url:		http://www.rosalinux.com
+Url:		https://www.rosalinux.com
 Requires:	%{name}-minimal = %{EVRD}
 Requires:	e_modules
 Requires:	econnman
